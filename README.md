@@ -8,7 +8,7 @@ This project presents an **Uber Traffic Analysis Report** for Bangalore using **
 
 ## Dashboard Preview
 
-![Uber Traffic Analysis Dashboard](./Dashboard (2018).png)
+![Uber Traffic Analysis Dashboard](./Dashboard(2018).png)
 
 *Figure: Uber Traffic Analysis Dashboard (2018)*
 
